@@ -1,5 +1,5 @@
 # wecart-api
-/** all creadentials here are voided. **/
+** all creadentials found here are voided. **
 
 **description:** A comprehensive documentation of wecart-api.
 
